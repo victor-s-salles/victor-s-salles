@@ -1,6 +1,9 @@
 ### Olá! Eu sou o Victor Salles 👋
 
 <br/>
+Sou apaixonado por tecnologia, cursei grande parte do curso de Engenharia Elétrica na Universidade Federal de Juiz de Fora (UFJF), porém me encontrei mesmo foi na área de programação, e hoje sigo minha jornada para me tornar um programador Full-Stack pela Trybe
+
+<br/>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-s-salles/)
 [![linkasdsadedin](https://img.shields.io/website-up-down-green-red/http/modddasdip.rg.svg)](https://victor-s-salles.github.io/)
