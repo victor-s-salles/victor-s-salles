@@ -10,7 +10,9 @@ Sou apaixonado por tecnologia, cursei grande parte do curso de Engenharia Elétr
 [![linkasdsadedin](https://img.shields.io/website-up-down-green-red/http/modddasdip.rg.svg)](https://victor-s-salles.github.io/)
 
 ![Victor Salles GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-s-salles&show_icons=true&theme=dracula)
-
+ <a href='https://github.com/victor-s-salles'>
+    <img  height='165em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=victor-s-salles&layout=compact&theme=dark&show_icons=true&count_private=true&icon_color=ffcc5b'>
+  </a>
 ## Tecnologias que eu uso e estou aprendendo:
 
 <div style="display: inline_block">
