@@ -5,7 +5,7 @@ Sou apaixonado por tecnologia, cursei grande parte do curso de Engenharia Elétr
 <br/>
 <br/>
 
-Email de contato: victor.salles@engenharia.ufjf.br
+E-mail de contato: victor.salles@engenharia.ufjf.br
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-s-salles/)
