@@ -3,7 +3,7 @@
 <br/>
 Sou apaixonado por tecnologia, cursei grande parte do curso de Engenharia Elétrica na Universidade Federal de Juiz de Fora (UFJF), porém me encontrei mesmo foi na área de programação, e hoje sigo minha jornada para me tornar um programador Full-Stack pela Trybe, onde já conclui o módulo de Front End, Back End e estou concluindo o de Ciência da Computação.
 <br/>
-Busco me especializar em Back End, aprendendo Java e cursando Ciências da Computação na UFJF
+Busco me especializar em Back End, e cursar Ciências da Computação na UFJF
 <br/>
 <br/>
 
